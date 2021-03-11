@@ -1,0 +1,7 @@
+Lutuf, Meliha kalem
+Yavuz, Ayaz tablet bilgisayar
+Mutlu, Sudanur bisiklet
+
+kalem : 1
+bisiklet : 1
+tablet bilgisayar : 1
